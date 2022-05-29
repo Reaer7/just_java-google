@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJavaNew</string>
+    <string name="quantity_label">Количество</string>
+    <string name="minus_label">-</string>
+    <string name="begin_number">1</string>
+    <string name="plus_label">+</string>
+    <string name="whipped_cream_label">Взбитые сливки</string>
+    <string name="chocolate_label">Шоколад</string>
+    <string name="name_label">Имя</string>
+    <string name="thanks_label">Спасибо!</string>
+    <string name="toppings_label">Топпинги</string>
+    <string name="order_label">Заказать</string>
+    <string name="begin_price">$0</string>
+    <string name="order_summary_label">Подробности заказа</string>
+    <string name="order_summary_name">Имя: <xliff:g id="name" example="Саша">%s</xliff:g></string>
+    <string name="total_price_label">Стоимость</string>
+    <string name="max_count_cup_label">Вы не можете заказать больше 20 кружек чая</string>
+    <string name="min_count_cup_label">Вы не можете заказать меньше 1 кружки чая</string>
+    <string name="info_label">Инфо</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJavaNew</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="minus_label">-</string>
+    <string name="begin_number">1</string>
+    <string name="plus_label">+</string>
+    <string name="order_summary_label">Order summary</string>
+    <string name="begin_price">$0</string>
+    <string name="order_label">Order</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="whipped_cream_label">Whipped cream</string>
+    <string name="chocolate_label">Chocolate</string>
+    <string name="name_label">Name</string>
+    <string name="thanks_label">Thank you!</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Ronald">%s</xliff:g></string>
+    <string name="total_price_label">Total price</string>
+    <string name="max_count_cup_label">You cannot have more than 20 cup of tea</string>
+    <string name="min_count_cup_label">You cannot have less than 1 cup of tea</string>
+    <string name="info_label">info</string>
+</resources>
